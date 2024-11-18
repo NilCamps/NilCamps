@@ -2,7 +2,7 @@
 
 Soy un estudiante de ingenieria informática de la Universidad Politecnica de Catalunya (UPC), estudio en la Facultad de Informatica de Barcelona (FIB). Mi objetivo es crear proyectos que mejoren la vida de las personas, optimicen procesos y/o sean innovadores.
 
-## 🚀 Sobre mí
+## 🚀 Sobre mí 
 
 - 🔭 Actualmente estoy trabajando en un algoritmo para un personaje de un juego que nos han propuesto en la universidad.
 - 🌱 Estoy aprendiendo habiliadades nuevas como por ejemplo SQL, assembler, C y aumentando mis conocimientos de C++. 

@@ -6,8 +6,6 @@ Soy un estudiante de ingenieria informática de la Universidad Politecnica de Ca
 
 - 🔭 Actualmente estoy trabajando en un algoritmo para un personaje de un juego que nos han propuesto en la universidad.
 - 🌱 Estoy aprendiendo habiliadades nuevas como por ejemplo SQL, assembler, C y aumentando mis conocimientos de C++. 
-- 📫 Cómo contactarme: 
-- ⚡ Fun fact: **[dato curioso sobre ti, como: "amo los rompecabezas" o "aprendí a programar viendo tutoriales de YouTube"]**
 
 ## 🛠️ Tecnologías y herramientas
 
